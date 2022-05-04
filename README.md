@@ -1,5 +1,6 @@
 # Actix Casbin
 
+
 [![Crates.io](https://meritbadge.herokuapp.com/actix-casbin)](https://crates.io/crates/actix-casbin)
 [![Docs](https://docs.rs/actix-casbin/badge.svg)](https://docs.rs/actix-casbin)
 [![Auto Build](https://github.com/casbin-rs/actix-casbin/workflows/Auto%20Build/badge.svg)](https://github.com/casbin-rs/actix-casbin/actions/)
